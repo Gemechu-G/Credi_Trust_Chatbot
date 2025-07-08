@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+langchain
+faiss-cpu # Or faiss-gpu if you have a compatible GPU
+sentence-transformers
+transformers
+torch # Or tensorflow (pytorch is generally easier for sentence-transformers/HuggingFace)
+accelerate # For faster inference with HuggingFace models
+bitsandbytes # For 8-bit quantization with HuggingFace models (optional, for smaller models)
+gradio # For the interactive UI
