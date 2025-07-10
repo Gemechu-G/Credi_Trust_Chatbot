@@ -22,6 +22,7 @@ Retrieval-Augmented Generation (RAG): Combines semantic search (retrieval) with 
 
 Interactive Chat Interface: A user-friendly web interface built with Gradio for easy interaction with the chatbot, including displaying sources for transparency.
 
+
 Project Structure
 credi_trust_chatbot/
 ├── data/
